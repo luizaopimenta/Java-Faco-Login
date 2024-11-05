@@ -3,7 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/luiz.costa/Documents/NetBeansProjects/Login/</file>
+            <file>file:/C:/Users/luiz.costa/Documents/NetBeansProjects/Login/Java-Faco-Login/src/view/Usuario.java</file>
+            <file>file:/C:/Users/luiz.costa/Documents/NetBeansProjects/Login/Java-Faco-Login/src/model/User.java</file>
+            <file>file:/C:/Users/luiz.costa/Documents/NetBeansProjects/Login/Java-Faco-Login/src/view/Login.java</file>
+            <file>file:/C:/Users/luiz.costa/Documents/NetBeansProjects/Login/Java-Faco-Login/src/controller/UserDAO.java</file>
         </group>
     </open-files>
 </project-private>
