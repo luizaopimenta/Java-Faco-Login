@@ -47,6 +47,11 @@ public class User {
         this.senha = senha;
     }
     
- 
+     public User(int id, String nome, String sobre_nome, String email){
+        this.id = id;
+        this.nome = nome;
+        this.sobre_nome = sobre_nome;
+        this.email = email;
+    }
     
 }
